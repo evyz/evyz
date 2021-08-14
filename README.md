@@ -11,7 +11,7 @@
 </a>
 
 <a href="mailto:antonovy04@mail.ru">
-  <img width="30px" src="https://img2.freepng.ru/20180407/eye/kisspng-email-iphone-outlook-com-yahoo-mail-gmail-blue-technology-5ac886348320d1.0860473015230909965371.jpg" alt="https://img2.freepng.ru/20180407/eye/kisspng-email-iphone-outlook-com-yahoo-mail-gmail-blue-technology-5ac886348320d1.0860473015230909965371.jpg" />
+  <img width="30px" src="https://www.roscosmos.ru/media/img/2020/Jule/blue-email-box-circle-png-transparent-icon-2.png" alt="https://www.roscosmos.ru/media/img/2020/Jule/blue-email-box-circle-png-transparent-icon-2.png" />
 </a>
 
 
