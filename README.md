@@ -11,7 +11,7 @@
 </a>
 
 <a href="mailto:antonovy04@mail.ru">
-  <img width="30px" src="https://img2.freepng.ru/20180421/boe/kisspng-email-computer-icons-ios-7-5adbe4cb8ba315.581635781524360395572.jpg" alt="https://img2.freepng.ru/20180421/boe/kisspng-email-computer-icons-ios-7-5adbe4cb8ba315.581635781524360395572.jpg" />
+  <img width="30px" src="https://img2.freepng.ru/20180407/eye/kisspng-email-iphone-outlook-com-yahoo-mail-gmail-blue-technology-5ac886348320d1.0860473015230909965371.jpg" alt="https://img2.freepng.ru/20180407/eye/kisspng-email-iphone-outlook-com-yahoo-mail-gmail-blue-technology-5ac886348320d1.0860473015230909965371.jpg" />
 </a>
 
 
