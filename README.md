@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## My links:
+### My links:
 
 
 <a href="https://hh.ru/resume/6c646829ff08f4e8e20039ed1f487639793435">
