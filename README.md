@@ -15,4 +15,4 @@
 </a>
 
 Languages and Tools: 
-<img widht="30px" src="https://image.flaticon.com/icons/png/512/174/174854.png" alt="html"  />
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
