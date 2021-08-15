@@ -32,4 +32,6 @@ Languages and Tools:
 <a><img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdk9PzaICRot_V8a8KdZsZR7ajCo8ysaAr7cEw06M6Cx1IcOwMqsKALxGjohUzMgyxqSc&usqp=CAU" /></a>
 <a><img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UfJ1FZ_f8XY8RWGBgOdKYw5lRHDeBi4U6w&usqp=CAU" /></a>
 <a><img width="30px" src="https://img.icons8.com/color/452/mongodb.png" /></a>
+<a><img width="30px" src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png" /></a>
+<a><img width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>
 
