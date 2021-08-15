@@ -15,4 +15,4 @@
 </a>
 
 Languages and Tools: 
-<img srс="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" widht="30px" />
+<img href="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" widht="30px" />
