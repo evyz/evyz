@@ -26,7 +26,7 @@ Languages and Tools:
 <a><img width="30px" src="https://findicons.com/files/icons/2773/pictonic_free/512/prog_flask.png" /></a>
 <a><img width="30px" src="https://www.pygame.org/ftp/pygame-head-party.png" /></a>
 <a><img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" /></a>
-<a><img width="30px" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" /></a>
+<a><img height="30px" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" /></a>
 <a><img width="30px" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9lZDI1OTU4NzA0MWM1YWI3OWYyNGNiMWUzNDFmMGEzNz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.WGSTeMkmlKyhMVynI4jhqaJ3JjH7-1FJs9Imqs5FY0U" /></a>
 <a><img width="30px" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" /></a>
 <a><img width="30px" src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" /></a>
