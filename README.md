@@ -23,8 +23,8 @@ Languages and Tools:
 <a><img width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></a>
 <a><img width="30px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" /></a>
 <a><img width="30px" src="https://lh3.googleusercontent.com/proxy/y1V7nmtCKVqADCy0efiub2R5-FqAdzai8jM6YmcwzSEfMaJtjbXROd3PnKw6N4Ez-hDEYfGny2Y4Tf7qB8UWhA6XB7ZiIcwLcN5J3U0TO8o1yZexwQ" /></a>
-<a><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-<a><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
+<a><img width="30px" src="https://findicons.com/files/icons/2773/pictonic_free/512/prog_flask.png" /></a>
+<a><img width="30px" src="https://www.pygame.org/ftp/pygame-head-party.png" /></a>
 <a><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
 <a><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
 
