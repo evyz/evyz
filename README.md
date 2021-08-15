@@ -2,7 +2,6 @@
 
 Im a hardworking developer. In my free time I like to develop the creative projects, learn new tools and languages, to draw graphics illustrations.
 
-
 // 2.5+ years of experience in WEB-development.
 
 ### My links:
