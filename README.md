@@ -14,4 +14,5 @@
   <img width="30px" src="https://www.roscosmos.ru/media/img/2020/Jule/blue-email-box-circle-png-transparent-icon-2.png" alt="https://www.roscosmos.ru/media/img/2020/Jule/blue-email-box-circle-png-transparent-icon-2.png" />
 </a>
 
-
+Languages and Tools: 
+<img srс="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" widht="30px" />
