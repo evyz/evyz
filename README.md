@@ -15,4 +15,4 @@
 </a>
 
 Languages and Tools: 
-<img src="https://image.flaticon.com/icons/png/512/174/174854.png" alt="html" widht="30" />
+<img widht="30px" src="https://image.flaticon.com/icons/png/512/174/174854.png" alt="html"  />
