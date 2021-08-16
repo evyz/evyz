@@ -23,7 +23,7 @@ _// 2.5+ years of experience in WEB-development._
 ### Languages and Tools: 
 
 <a><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" /></a>
-<a><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
+<a><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
 <a><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" /></a>
 <a><img width="30px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" /></a>
 <a><img width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></a>
