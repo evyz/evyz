@@ -13,10 +13,13 @@ _// 2.5+ years of experience in WEB-development._
 <a href="https://t.me/evyz4" target="_blank">
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
 </a>
-
 <a href="mailto:antonovy04@mail.ru" target="_blank">
   <img width="30px" src="https://www.roscosmos.ru/media/img/2020/Jule/blue-email-box-circle-png-transparent-icon-2.png" alt="https://www.roscosmos.ru/media/img/2020/Jule/blue-email-box-circle-png-transparent-icon-2.png" />
 </a>
+<a href="https://www.linkedin.cn/in/yaroslav-antonov-57b696213/" target="_blank">
+  <img width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedIn" />
+</a>
+
 
 
 
