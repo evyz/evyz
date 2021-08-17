@@ -4,8 +4,11 @@ Im a hardworking developer. In my free time I like to develop the creative proje
 
 _// 2.5+ years of experience in WEB-development._
 
-### My links:
+### My contacts: 
 
+<img width="30px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />loktomyz#2522
+
+### My links:
 
 <a href="https://hh.ru/resume/6c646829ff08f4e8e20039ed1f487639793435">
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />
