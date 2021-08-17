@@ -6,7 +6,7 @@ _// 2.5+ years of experience in WEB-development._
 
 ### My contacts: 
 
-<img width="30px" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />loktomyz#2522
+- Discord: loktomyz#2522
 
 ### My links:
 
