@@ -6,8 +6,8 @@ _// 2.5+ years of experience in WEB-development._
 
 ### My contacts: 
 
-- Discord: loktomyz#2522
-- Email Adress: antonovy04@mail.ru
+- Discord: _loktomyz#2522_
+- Email Adress: _antonovy04@mail.ru_
 
 ### My links:
 
