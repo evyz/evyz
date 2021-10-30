@@ -11,18 +11,18 @@ _// 2.7+ years of experience in WEB-development._
 
 ### My links:
 
-<a href="https://hh.ru/resume/6c646829ff08f4e8e20039ed1f487639793435">
+<!-- <a href="https://hh.ru/resume/6c646829ff08f4e8e20039ed1f487639793435">
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" alt="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" />
-</a> 
+</a> -->
 <a href="https://t.me/evyz4" target="_blank">
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
 </a>
-<a href="https://www.linkedin.cn/in/yaroslav-antonov-57b696213/" target="_blank">
+<!-- <a href="https://www.linkedin.cn/in/yaroslav-antonov-57b696213/" target="_blank">
   <img width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedIn" />
-</a>
+</a> -->
 
 
-
+<!-- 
 
 ### Languages and Tools: 
 
@@ -44,4 +44,4 @@ _// 2.7+ years of experience in WEB-development._
 <a><img width="30px" src="https://img.icons8.com/color/452/mongodb.png" /></a>
 <a><img width="30px" src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png" /></a>
 <a><img width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></a>
-
+ -->
