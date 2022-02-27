@@ -8,9 +8,9 @@ Im a hardworking developer. In my free time I like to develop the creative proje
 
 ### My links:
 
-<a href="https://www.instagram.com/loktomyz/" target="_blank">
+<!-- <a href="https://www.instagram.com/loktomyz/" target="_blank">
     <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
+</a> -->
 <a href="https://t.me/evyz4" target="_blank">
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
 </a>
